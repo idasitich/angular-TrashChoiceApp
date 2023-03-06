@@ -9,6 +9,4 @@ import { HomeComponent } from './home.component';
   providers: [],
   bootstrap: [HomeComponent],
 })
-export class AppModule {
-
-}
+export class AppModule {}
